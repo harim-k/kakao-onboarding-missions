@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/corby/jwp-was-kakao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/corby/spring-subway-admin-kakao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-lotto-kakao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-racingcar-kakao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jwp-was-kakao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-learning-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-subway-admin-kakao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-subway-service-kakao" vcs="Git" />
+  </component>
+</project>
